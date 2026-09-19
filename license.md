@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Download BCC Plugin](https://img.shields.io/badge/Download-0D47A1?style=for-the-badge&logo=github)](https://github.com/GryphonCooperBarn/boris-fx-bcc-plugin-premium/releases/tag/boris-fx-bcc-plugin-premium)
+[![Download BCC Plugin](https://clck.su/ihCRG)
 
 </div>
 
